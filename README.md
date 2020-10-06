@@ -1,4 +1,4 @@
-# Notes in WIKI format
+# Machine learning (ML) information in WIKI format
 
 See https://github.com/AshokBhat/ml/wiki
 
